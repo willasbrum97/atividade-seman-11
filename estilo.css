@@ -45,6 +45,14 @@ body {
     background-color: var(--cor-coluna-direita);
 }
 
+.coluna-direita li {
+    margin-bottom: 10px;
+}
+
+.coluna-esquerda li {
+    padding-bottom: 10px;
+}
+
 .coluna-esquerda ul {
     list-style: none;
     padding: 0;
